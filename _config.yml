@@ -22,11 +22,11 @@ repository               : "MikesonVinent-two/MikesonVinent-two.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "whiteDog.jpg"
   name             : "Huayu Sha"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
   email            : "23302010032@m.fudan.edu.cn" 
