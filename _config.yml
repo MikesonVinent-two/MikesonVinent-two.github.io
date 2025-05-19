@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en"
 site_theme               : "default"
 title                    : "Huayu Sha"
 title_separator          : "-"
 name                     : &name "Huayu Sha"
-description              : &description "personal description"
+description              : &description "A interesting person"
 url                      : https://MikesonVinent-two.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MikesonVinent-two/MikesonVinent-two.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "whiteDog.jpg"
   name             : "Huayu Sha"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A interesting person"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "MikesonVinent-two"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
